@@ -2,7 +2,7 @@
 
 The exercise template comes with a program template that includes the function and its call.
 
-```python
+```plaintext
 Chicken:
 3
 Bacon (kg):

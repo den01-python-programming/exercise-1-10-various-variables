@@ -29,5 +29,5 @@ Zero
 And finally, a summary:
 3
 5.5
-None!
+Zero
 ```

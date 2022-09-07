@@ -27,7 +27,7 @@ Tractor:
 Zero
 
 And finally, a summary:
-3
-5.5
+9000
+0.1
 Zero
 ```
